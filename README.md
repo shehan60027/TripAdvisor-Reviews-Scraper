@@ -10,9 +10,3 @@ This project uses Selenium to scrape reviews from a specific TripAdvisor page an
   - selenium
   - fake_useragent
 
-## Setup
-
-1. **Install the required libraries:**
-
-   ```bash
-   pip install selenium fake_useragent
